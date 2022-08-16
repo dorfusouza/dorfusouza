@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou Rodolfo Oliveira, intrutor de TI da escola SENAI
+- 👋 Olá, Eu sou Rodolfo Oliveira, instrutor de TI da escola SENAI
 
 
 <!---
